@@ -1,0 +1,30 @@
+{
+  "name": "silex",
+  "version": "9.9.9",
+  "description": "Silex Bot Altyapı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "araschain",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "canvas": "^2.10.2",
+    "croxydb": "^0.0.7",
+    "discord-api-types": "^0.37.5",
+    "discord.js": "^14.11.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.3.0",
+    "node-superfetch": "^0.3.3",
+    "os": "^0.1.2",
+    "random-anime": "^1.0.6",
+    "request": "^2.88.2",
+    "rhino-ms": "^0.4.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
